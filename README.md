@@ -204,6 +204,7 @@ The demo shows:
 4. Successful `mock_lead_capture` execution
 
 ▶️ **Click the thumbnail below to watch the demo on YouTube**
+
 [![AutoStream Demo Video](thumbnail/img.png)](https://youtu.be/zlx0k5VGVcs)
 
 
