@@ -204,7 +204,7 @@ The demo shows:
 4. Successful `mock_lead_capture` execution
 
 <a href="https://youtu.be/zlx0k5VGVcs" target="_blank">
-  <img src="https://img.youtube.com/vi/zlx0k5VGVcs/0.jpg" alt="Demo Video" width="600"/>
+  <img src="thumbnail/img.png" alt="Demo Video" width="600"/>
 </a>
 
 
