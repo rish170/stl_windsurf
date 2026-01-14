@@ -71,7 +71,7 @@ This allows clean handling of 5–6+ turn conversations without losing context.
 
 ## Tech Stack
 
-* **Language:** Python 3.9+
+* **Language:** Python 3.12.7
 * **Orchestration:** LangGraph (LangChain ecosystem)
 * **LLM:** Google Gemini (configurable via environment variables)
 * **Embeddings:** Gemini embeddings or local Sentence-Transformers fallback
