@@ -207,6 +207,8 @@ The demo shows:
   <img src="thumbnail/img.png" alt="Demo Video" width="600"/>
 </a>
 
+[![AutoStream Demo Video](thumbnail/img.png)](https://youtu.be/zlx0k5VGVcs)
+
 
 ---
 
