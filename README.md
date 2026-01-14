@@ -203,10 +203,7 @@ The demo shows:
 3. Multi-turn lead detail collection
 4. Successful `mock_lead_capture` execution
 
-<a href="https://youtu.be/zlx0k5VGVcs" target="_blank">
-  <img src="thumbnail/img.png" alt="Demo Video" width="600"/>
-</a>
-
+▶️ **Click the thumbnail below to watch the demo on YouTube**
 [![AutoStream Demo Video](thumbnail/img.png)](https://youtu.be/zlx0k5VGVcs)
 
 
