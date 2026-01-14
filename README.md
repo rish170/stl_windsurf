@@ -1,15 +1,3 @@
-Below is a **fully reconstructed, recruiter-grade `README.md` for Project B (windsurf)**.
-It **keeps your current README’s intent and structure**, but upgrades:
-
-* clarity
-* technical credibility
-* alignment with **ServiceHive’s evaluation rubric**
-* “this candidate understands production GenAI agents” signal
-
-You can **replace your existing `README.md` entirely** with this.
-
----
-
 # AutoStream Social-to-Lead Agentic Workflow
 
 **ServiceHive – Machine Learning Intern Assignment**
@@ -223,10 +211,7 @@ This project was built to reflect **real-world GenAI agent design**, emphasizing
 
 ---
 
-If you want, I can next:
+> **Note on Model Selection:**
+> The assignment specifies *Gemini 1.5 Flash*. At the time of implementation, this exact model identifier was not available via the public API in my environment. I therefore used the closest equivalent Gemini Flash variant accessible via the API. The agent design, reasoning flow, RAG pipeline, and tool-gating logic remain model-agnostic and fully aligned with the assignment requirements.
 
-* **Tune this README to exactly match ServiceHive’s tone**
-* **Prepare interview explanations based on this project**
-* **Suggest final polish changes before submission**
-
-Just tell me.
+---
