@@ -83,7 +83,7 @@ This allows clean handling of 5–6+ turn conversations without losing context.
 ## Project Structure
 
 ```
-windsurf/
+stl_agent/
 │
 ├── autostream/
 │   ├── agent.py        # Core agent logic & nodes
